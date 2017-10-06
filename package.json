@@ -1,0 +1,23 @@
+{
+  "name": "1z-homepage-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md 1z-homepage-demo.md -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Reis-Zocdoc/1z-homepage-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Reis-Zocdoc/1z-homepage-demo/issues"
+  },
+  "homepage": "https://github.com/Lucas-Reis-Zocdoc/1z-homepage-demo#readme",
+  "dependencies": {
+    "reveal-md": "^0.4.2"
+  }
+}
