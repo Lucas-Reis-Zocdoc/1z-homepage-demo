@@ -1,9 +1,11 @@
 ---
 title: 1Z Homepage Demo
 author: Lucas Reis, Jin Hwang
-theme: night
+theme: zocdoc
 highlight-theme: dracula
 ---
+
+<!-- .slide: data-background="#FFF04B" -->
 
 # The New Homepage Demo
 
@@ -66,5 +68,7 @@ New technology stack
 *...and a lot of other super cool and effective tools!*
 
 ---
+
+<!-- .slide: data-background="#FFF04B" -->
 
 ## Welcome to the new age of 1Z!
